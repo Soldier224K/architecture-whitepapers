@@ -1,7 +1,7 @@
 # HAMIA — Hierarchical Adaptive Multi-Model Intelligence Architecture
 
 **Status:** Architecture Specification  
-**Source:** HAMIA Architecture Whitepaper (Z.ai, Architecture & Reliability Group)
+**Source:** HAMIA Architecture Whitepaper
 
 ---
 
